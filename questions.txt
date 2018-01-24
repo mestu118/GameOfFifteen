@@ -1,0 +1,4 @@
+0. It allows 3x3 to 9x9
+1. A grid
+2. greet()
+3. init(), draw(),move() and won()
